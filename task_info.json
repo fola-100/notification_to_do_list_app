@@ -1,0 +1,17 @@
+[
+    {
+        "task": "i want to start running",
+        "time": "07:45",
+        "days": [
+            "Wednesday"
+        ]
+    },
+    {
+        "task": " I want to start running",
+        "time": "07:47",
+        "days": [
+            "Monday",
+            "Sunday"
+        ]
+    }
+]
